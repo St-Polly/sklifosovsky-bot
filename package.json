@@ -1,0 +1,17 @@
+{
+  "name": "medhelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/hear": "^1.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "vk-io": "^4.0.2"
+  }
+}
